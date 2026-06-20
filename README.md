@@ -1,8 +1,8 @@
-# ROARZ 2025 Autonomous Maze Solver
+# Autonomous Maze Solver
 
 ## Project Overview
 
-This project was developed for the ROARZ 2025 robotics challenge using the Webots simulation environment.
+This project was developed using the Webots simulation environment.
 
 The objective was to autonomously explore an unknown maze, identify and record the coordinates of green walls, calculate a final destination based on the detected wall coordinates, and navigate to that destination without any prior knowledge of the maze layout.
 
